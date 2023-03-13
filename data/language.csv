@@ -1,0 +1,30 @@
+responses_id,language
+1,C++;HTML/CSS;JavaScript;Objective-C;PHP;Swift;PostgreSQL;SQLite
+2,JavaScript;Python
+3,Assembly;C;Python;R;Rust;Julia;Python;Rust;SQLite
+4,JavaScript;TypeScript;JavaScript;TypeScript;NA
+5,Bash/Shell;HTML/CSS;Python;SQL;Bash/Shell;HTML/CSS;Python;SQL;Elasticsearch;PostgreSQL;Redis
+6,C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;SQL;Swift	C#;C++;Go;HTML/CSS;Java;JavaScript;Node.js;Objective-C;Perl;Python;SQL;Swift;MySQL;PostgreSQL;SQLite
+7,HTML/CSS;JavaScript	HTML/CSS;JavaScript;PHP
+8,HTML/CSS;JavaScript;PHP;Ruby;SQL;TypeScript;Ruby;MySQL;PostgreSQL;SQLite
+9,HTML/CSS;JavaScript;HTML/CSS;JavaScript;PostgreSQL
+10,C++;Python;Haskell;Python;PostgreSQL
+11,C#;TypeScript;C#;Microsoft;SQL;Server;Oracle
+12,Bash/Shell;HTML/CSS;JavaScript;Node.js;SQL;TypeScript	
+13,C;C++;Java;Perl;Ruby;Rust
+14,C;C++;JavaScript;Python;R;SQL	
+15,JavaScript;SQL;JavaScript;PHP;SQL	
+16,Bash/Shell;Python;Bash/Shell;Python
+17,C#;HTML/CSS;Java;JavaScript;Node.js;C#;Java;JavaScript;Node.js	
+18,Bash/Shell;HTML/CSS;JavaScript;PHP;Ruby;SQL	
+20,C++;Python;C++;Python
+21,C;C++;HTML/CSS;JavaScript;Matlab;Node.js;PHP;Python;SQL;TypeScript	
+22,Java;Python	
+23,JavaScript;Python;APL;Python;SQLite
+24,C#;HTML/CSS;Python;Java;Kotlin;Python
+25,JavaScript;Python;Python;SQL;MySQL
+26,C++;HTML/CSS;Java;JavaScript;Kotlin;Node.js;TypeScript	
+27,HTML/CSS;Julia;Python;R;SQL;HTML/CSS;Julia;Python;R;SQL	
+28,C++;Python	
+29,Python;Bash/Shell;Python;SQL	
+30,Bash/Shell;Haskell;JavaScript;SQL;TypeScript	
