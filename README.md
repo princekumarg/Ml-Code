@@ -4,7 +4,8 @@
 
 Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text. It supports various programming languages, but it's most commonly used with languages like Python, R, and Julia.
 
-![image](https://github.com/princekumarg/intermediate-python-course/assets/86905668/3dae8d11-0a21-405d-bc30-ef205475acac)
+![image](https://github.com/princekumarg/Ml-Code/assets/86905668/65d8056f-d07b-47c8-b2db-f1f36072f9d5)
+
 
 ### Key Concepts:
 
